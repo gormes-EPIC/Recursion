@@ -1,4 +1,4 @@
-# Lab 13
+# Recursion
 
 ## Euclid's Algorithm for Finding the Greatest Common Divisor
 
